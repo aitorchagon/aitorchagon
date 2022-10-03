@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aitorchagon
-- 👀 I’m interested in Data Science, particularly focused on medical and business applications.
+- 👀 I’m interested in Data Science and Data Engineering, particularly focused on medical and business applications.
 - 🌱 I’m currently learning Python, R and SQL.
 - 📫 You can reach me at aitorchagon@gmail.com.
 
