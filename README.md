@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aitorchagon
 - 👀 I’m interested in Data Science and Data Engineering, particularly focused on medical and business applications.
-- 🌱 I’m currently working on Python and C++ projects; nevertheless, my main focus of learning is Python.
+- 🌱 I’m currently working on Python projects focused on Data Science.
 - 📫 You can reach me at aitorchagon@gmail.com.
 
 <!---
